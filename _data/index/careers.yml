@@ -1,0 +1,113 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Masters in Computer Science
+  desc:
+    detail: >
+      Concentration - Software Development.
+
+      Related Coursework -
+      1. Advanced Topics In Programming Languages
+      2. Advanced Analysis Of Algorithms
+      3. Object Oriented Analysis And Design
+      4. Advanced Software Engineering
+      5. Advanced Computer Networking
+      6. Topics in Distributed Computing
+      7. Software Development With Frameworks
+      8. Fault Tolerant Computing Systems
+      9. Deep Learning
+      10. Mobile Application Development
+
+  date:
+    detail: Aug 2017 - May 2019, California, United States of America
+  job:
+    detail: Graduate Student at California State University Long Beach
+  icon: fa-plus-square
+
+- name:
+    detail: Sapient - ENI
+  desc:
+    detail: >
+      Project Details: To provide level 2 and level 3 support by continuously fixing the bugs in the production environment.
+      Roles and Responsibilities:
+      • Developed custom scripts using Open JVS and Open AVS programming languages on Openlink Endur
+      • Provided level 2 and level 3 functional and technical support to the client
+      • Worked as software developer and tester on multiple short-term projects with strict deadlines
+      • Provided short-term and long-term fix for the issues based on the criticality and priority of the issue
+      • Managed the release team to successfully release the builds into the production environment
+  date:
+    detail: Sept 2015 - Jul 2017, Bangalore, India
+  job:
+    detail: Associate Trading and Risk Management - Level 2 Sofware Developer
+  icon: fa-plus-square
+
+- name:
+    detail: Sapient - RWE
+  desc:
+    detail: >
+      Project Details: To migrate the data from older version of the software (Endur V.8) to newer version (Endur V.12)
+      Roles and Responsibilities:
+      • Developed custom scripts to transfer the data automatically to the newer version of the software with minimal manual intervention
+      • Assisted in development of the reconciliation tool to validate the correctness of the data in newer version.
+  date:
+    detail: Sept 2015 - Jul 2017, Bangalore, India
+  job:
+    detail: Associate Trading and Risk Management - Level 2 Sofware Developer
+  icon: fa-plus-square
+
+- name:
+    detail: Accenture - SHELL
+  desc:
+    detail: >
+      Project Details: To provide 24*7 support to the client by taking care of multiple End-of-Day process
+      Roles and Responsibilities:
+      • Handled multiple End-of-Day (EOD) process to ensure smooth running of the business without any interruptions
+      • Provided 24*7 level 1 and level 2 support to the client
+      • Provided support to other trading applications like Energy Credit and Credit Management, Shell Trading US Company etc. 
+  date:
+    detail: Oct 2013 - Sept 2015, Bangalore, India
+  job:
+    detail: Software Engineering Analyst 
+  icon: fa-plus-square
+
+- name:
+    detail: Bachelors in Information Technology
+  desc:
+    detail: >
+      Related Coursework (A few is listed below) -
+      1. 
+
+  date:
+    detail: Aug 2009 - Apr 2013, Tamil Nady, India
+  job:
+    detail: Undergraduate Student at RMD Engineering College affiliated to Anna University
+  icon: fa-plus-square
+
+#- name:
+#    detail: Company A
+#    i18n: company_a
+#  desc:
+#    detail: I worked at Company A ...
+#    i18n: company_a_desc
+#  date:
+#    detail: Apr. 2016
+#    i18n: company_a_date
+#  job:
+#    detail: CTO
+#    i18n: company_a_job
+#  icon: fa-plus-square
+#
+#- name:
+#    detail: Company B
+#    i18n: company_b
+#  desc:
+#    detail: I worked at Company B ...
+#    i18n: company_b_desc
+#  date:
+#    detail: Jun. 2015
+#    i18n: company_b_date
+#  job:
+#    detail: Full Stack Developer
+#    i18n: company_b_job
+#  icon: fa-plus-square

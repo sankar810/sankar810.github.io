@@ -1,0 +1,80 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: SS Portfolio
+description: 
+keywords: resume, csharp, c++, c, haskell, openlink, endur, openJVS, openAVS, Jekyll, github, gh-pages
+
+# option 1 - publish to http://127.0.0.1:4000/ or https://atlas7.github.io
+#baseurl: /   #comment this out entirely. (otherwise CSS issue)
+url: https://sarveshwarans.github.io  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage
+img_path: /static/assets/img/blog  # /homepage/static/assets/img/blog
+
+
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: Sarveshwaran Sampathkumar  # Be used at blog posts' author.
+  first_name: Sarveshwaran  # Be used at index page about me section.
+  last_name: Sampathkumar  # Be used at index page about me section.
+  avatar: /static/assets/img/landing/home_avatar.jpg  # upload your avatar at directory and edit it.
+  github_username: sarveshwarans  # Leave blank if you don't have now
+  linkedin_id: sarveshwaran # Leave blank if you don't have now
+  facebook_username: sarveshwarans  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
+  stackoverflow_id:  # Leave blank if you don't have now
+  stackoverflow_name: # Leave blank if you don't have now
+  home2_url: #http://mathalope.co.uk # Leave blank if you don't have now
+  email: sarveshswaran@gmail.com  # Leave blank if you don't have now
+  cv: https://drive.google.com/file/d/0B18khxHgyiMkQV9NUS1qZlZMZFE/view?usp=sharing
+  # http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: icon-apache
+    - name: fa-linux
+  skill_icon2:
+    - name: fa-linux
+    - name: icon-apache
+  desc: Graduate student with 4 years of professional software development experience looking for a full time job opportunity where my technical and professional skills will be harnessed    # Describe yourself.
+
+# comment
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#  name: jalpc
+
+# analytics
+#google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+   # id: # UA-53715022-5
+
+## donation
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
+
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+#kramdown:
+#  input: GFM
+#  syntax_highlighter: rouge
+#  auto_ids: true
+
+kramdown:
+  auto_ids:       true
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
+  syntax_highlighter: rouge
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
