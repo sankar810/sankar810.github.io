@@ -3,7 +3,7 @@
 # Website settings
 title: SS Portfolio
 description: 
-keywords: resume, csharp, c++, c, haskell, openlink, endur, openJVS, openAVS, Jekyll, github, gh-pages
+keywords: resume, csharp, c++, c, python, bash, javascript, unix, linux, git, bitbucket, android, agile, scrum, linq, cordova, visual studio, github, gh-pages
 
 # option 1 - publish to http://127.0.0.1:4000/ or https://atlas7.github.io
 #baseurl: /   #comment this out entirely. (otherwise CSS issue)
@@ -19,13 +19,13 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/home_avatar.jpg  # upload your avatar at directory and edit it.
   github_username: sankar810  # Leave blank if you don't have now
   linkedin_id: sankaran-shanmugavelayudam-054110b0 # Leave blank if you don't have now
-  facebook_username: sarveshwarans  # Leave blank if you don't have now
+  facebook_username: sankaran22.5  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   stackoverflow_id:  # Leave blank if you don't have now
   stackoverflow_name: # Leave blank if you don't have now
   home2_url: #http://mathalope.co.uk # Leave blank if you don't have now
-  email: sarveshswaran@gmail.com  # Leave blank if you don't have now
-  cv: https://drive.google.com/file/d/0B18khxHgyiMkQV9NUS1qZlZMZFE/view?usp=sharing
+  email: sankaran22.5@gmail.com  # Leave blank if you don't have now
+  cv: https://drive.google.com/open?id=1AyMyBfYr2IrfhZ0bcVIDj9CGaJ7RMrtY
   # http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
