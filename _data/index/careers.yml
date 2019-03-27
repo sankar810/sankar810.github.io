@@ -13,11 +13,11 @@
       3. Object Oriented Analysis And Design
       4. Advanced Software Engineering
       5. Advanced Computer Networking
-      6. Topics in Distributed Computing
+      6. Mobile Application Development
       7. Software Development With Frameworks
       8. Fault Tolerant Computing Systems
       9. Deep Learning
-      10. Mobile Application Development
+      10. Operating Systems
 
   date:
     detail: Aug 2017 - May 2019, California, United States of America
@@ -26,34 +26,32 @@
   icon: fa-plus-square
 
 - name:
-    detail: Sapient - ENI
+    detail: College of Business Administration - California State University, Long Beach
   desc:
     detail: >
-      Project Details: To provide level 2 and level 3 support by continuously fixing the bugs in the production environment.
       Roles and Responsibilities:
-      • Developed custom scripts using Open JVS and Open AVS programming languages on Openlink Endur
-      • Provided level 2 and level 3 functional and technical support to the client
-      • Worked as software developer and tester on multiple short-term projects with strict deadlines
-      • Provided short-term and long-term fix for the issues based on the criticality and priority of the issue
-      • Managed the release team to successfully release the builds into the production environment
+      • Software development, Proctor and Teaching assistant for Undergraduate classes.
   date:
-    detail: Sept 2015 - Jul 2017, Bangalore, India
+    detail: Aug 2018 - May 2019, Long Beach, CA
   job:
-    detail: Associate Trading and Risk Management - Level 2 Sofware Developer
+    detail: Student Assistant
   icon: fa-plus-square
 
 - name:
-    detail: Sapient - RWE
+    detail: Bachelor of Engineering
   desc:
     detail: >
-      Project Details: To migrate the data from older version of the software (Endur V.8) to newer version (Endur V.12)
-      Roles and Responsibilities:
-      • Developed custom scripts to transfer the data automatically to the newer version of the software with minimal manual intervention
-      • Assisted in development of the reconciliation tool to validate the correctness of the data in newer version.
-  date:
-    detail: Sept 2015 - Jul 2017, Bangalore, India
+      Related Coursework -
+      1. Data Structures
+      2. Object Oriented Programming
+      3. Database Management Systems
+      4. Cryptography and Network Security
+      5. Software Engineering
+      6. Mobile Applications
+      
+    detail: Aug 2012 - May 2016, Chennai, India
   job:
-    detail: Associate Trading and Risk Management - Level 2 Sofware Developer
+    detail: Undergraduate Student at Saveetha University, 
   icon: fa-plus-square
 
 - name:
