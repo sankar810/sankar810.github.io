@@ -16,7 +16,7 @@ author:  # change following line to your infomation.
   name: Sankaran Shanmugavelayudam  # Be used at blog posts' author.
   first_name: Sankaran  # Be used at index page about me section.
   last_name: Shanmugavelayudam  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar_home.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar_home.png  # upload your avatar at directory and edit it.
   github_username: sankar810  # Leave blank if you don't have now
   linkedin_id: sankaran-shanmugavelayudam-054110b0 # Leave blank if you don't have now
   facebook_username: sankaran22.5  # Leave blank if you don't have now
