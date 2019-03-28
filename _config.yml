@@ -3,7 +3,7 @@
 # Website settings
 title: SS Portfolio
 description: 
-keywords: resume, csharp, c++, c, python, bash, git, bitbucket, android, cordova, visual-studio, github, gh-pages
+keywords: resume, csharp, c++, c, haskell, openlink, endur, openJVS, openAVS, Jekyll, github, gh-pages
 
 # option 1 - publish to http://127.0.0.1:4000/ or https://atlas7.github.io
 #baseurl: /   #comment this out entirely. (otherwise CSS issue)
