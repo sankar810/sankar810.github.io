@@ -9,11 +9,9 @@
   repo: Android_Foodie
   img: /static/assets/img/landing/fungai_org_icon.png
   desc: >
-    The purpose of this project is to create an android application through which friends can share photos of food items that 
-    are on sale with each other and the community around them. Additionally, this app will also save the food from being 
-    wasted and at the same time providing students with cheaper source of food.
+    Developed native android application for sharing food resources notifications using instant messaging services.
     
-- name: WeCare
+- name: WeCare - Android Application
 #  i18n:
   url: https://github.com/sankar810/WeCare Android Application
   gh_user: sankar810
@@ -22,7 +20,7 @@
   desc: >
     Developed native android application for user friendly fitness application for elderly. Still under development and in the phase of launch with advanced features which can accommodate multiple users and fitness devices.
 
-- name: Steganography Chat C# Application 
+- name: Steganography Chat - C# Application 
 #  i18n:
   url: https://github.com/sankar810/Steganography
   gh_user: sankar810
