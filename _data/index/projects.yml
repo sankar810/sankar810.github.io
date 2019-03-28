@@ -12,6 +12,15 @@
     The purpose of this project is to create an android application through which friends can share photos of food items that 
     are on sale with each other and the community around them. Additionally, this app will also save the food from being 
     wasted and at the same time providing students with cheaper source of food.
+    
+- name: WeCare
+#  i18n:
+  url: https://github.com/sankar810/WeCare Android Application
+  gh_user: sankar810
+  repo: WeCare
+  img: /static/assets/img/landing/mathalope_icon.png
+  desc: >
+    Developed native android application for user friendly fitness application for elderly. Still under development and in the phase of launch with advanced features which can accommodate multiple users and fitness devices.
 
 - name: Steganography Chat C# Application 
 #  i18n:
@@ -30,15 +39,6 @@
   img: /static/assets/img/landing/fungai_org_icon.png
   desc: >
     Developed a C++ application which replicates a typing tutor which uses a graphic UI to identify and calculate the typing speed of the user dynamically.
-
-- name: WeCare
-#  i18n:
-  url: https://github.com/sankar810/WeCare Android Application
-  gh_user: sankar810
-  repo: WeCare
-  img: /static/assets/img/landing/mathalope_icon.png
-  desc: >
-    Developed native android application for user friendly fitness application for elderly. Still under development and in the phase of launch with advanced features which can accommodate multiple users and fitness devices.
 
 - name: Version Control System Java Application
 #  i18n:
